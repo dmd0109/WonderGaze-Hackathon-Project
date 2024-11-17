@@ -1,3 +1,9 @@
+# Project Files
+
+Some of the files required for this project are too large to upload directly to GitHub. You can download them from my Google Drive using the following link:
+
+[Download Project Files from Google Drive]([https://drive.google.com/your-file-or-folder-link](https://drive.google.com/drive/folders/1e45Mc-94ucpWdz8Y5K-fPZvRbng8KcQn?usp=sharing))
+
 # ⭐Plant-Disease-Detection
 * Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset. Dataset Link is in My Blog Section.
 
